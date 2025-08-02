@@ -1,11 +1,11 @@
 <!-- Header with Waving Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20YourName%20👋&fontSize=35&fontAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Vedant Varma%20👋&fontSize=35&fontAlign=center" />
 </p>
 
 <!-- Typing Bio -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=450&lines=Final+Year+Student+%7C+AI+%26+ML+Engineer;Data+Science+%7C+MLOps+%7C+Software+Developer;Open+Source+%7C+Cloud+%7C+Docker+%7C+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=450&lines=Computer+Science+with+A.I.+Final+Year+Student;AI+%26+ML+Engineer;Data+Science+%7C+MLOps+%7C+Software+Developer;Open+Source+%7C+Cloud+%7C+Docker+%7C+DevOps" />
 </p>
 
 ---
@@ -13,9 +13,8 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:var.vedant@gamil.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vedant-varma-v8585/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
@@ -44,7 +43,7 @@
 ## 📜 Certifications
 
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/f397cd9f-d349-4a4b-94f3-76d7a8a56a83/image.png" width="120" title="Cisco CCST Cybersecurity" />
+  <img src="https://images.credly.com/size/680x680/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/image.png" width="120" title="Cisco CCST Cybersecurity" />
 </p>
 
 - **Cisco Certified Support Technician – Cybersecurity (CCST)**
