@@ -1,11 +1,11 @@
 <!-- Header with Waving Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Vedant Varma%20👋&fontSize=35&fontAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Jhona%20👋&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <!-- Typing Bio -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=450&lines=Computer+Science+with+A.I.+Final+Year+Student;AI+%26+ML+Engineer;Data+Science+%7C+MLOps+%7C+Software+Developer;Open+Source+%7C+Cloud+%7C+Docker+%7C+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Final+Year+CS+Student+Specializing+in+AI;AI+%26+ML+Engineer+%7C+MLOps+%7C+Data+Science;Software+Developer+%7C+Cloud+%7C+Docker+%7C+DevOps+Enthusiast" />
 </p>
 
 ---
