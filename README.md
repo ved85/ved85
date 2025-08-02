@@ -1,15 +1,13 @@
 <!-- Profile Header -->
 <h1 align="center">Hey 👋, I'm YourName</h1>
-<h3 align="center">AI/ML Engineer • Data Scientist • Software Engineer</h3>
+<h3 align="center">AI/ML Enthusiast • Data Scientist • Software Engineer</h3>
 
-<!-- Typing animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Scientist;Full-Stack+Developer;Pythonista+%7C+Cloud+Native&center=true&width=450&height=50">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2F+ML+Engineer;Data+Scientist;Software+Engineer;Cloud-Native+Dev;Always+Learning&center=true&width=440&height=45" />
 </p>
 
-<!-- Social Badges -->
+<!-- Social & Contact Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -17,68 +15,65 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="profile views" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🎓 I'm a hands-on AI/ML & Data Science practitioner with a background in Software Engineering.
-- 📊 I love solving real-world problems with data and building intelligent systems.
-- 💻 My interests span across Machine Learning, Deep Learning, MLOps, APIs, Automation, and Full-stack Engineering.
-- 🌱 Currently diving deeper into **LLMs**, **model deployment**, and **cloud-native AI pipelines**.
-- 🚀 Open to collaborations in AI research, open-source, and startup MVPs.
+- 🔭 Building AI pipelines, automating tasks, and engineering scalable systems.
+- 👨‍💻 Experienced in both software development and machine learning research.
+- 🌱 Currently diving deeper into **MLOps**, **LLMs**, and **cloud-native ML apps**.
+- 💡 I enjoy solving real-world problems with **Python**, **C++**, **TensorFlow**, and **Docker**.
+- 💬 Ask me about AI, ML, system design, or open-source contributions!
 
 ---
 
-## ⚒️ Tech Stack
+## 🛠️ Skills & Tools
 
-### 🧠 AI / ML / Data Science
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40"/>
-</p>
+### 📌 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Software Engineering / Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-</p>
+### ⚙️ Technologies & Tools
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![UML](https://img.shields.io/badge/UML-2D3F6C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-010101?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
+### 🧠 Libraries & Frameworks
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🛢 Databases & OS
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&count_private=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -89,18 +84,18 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📬 Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&margin-w=15&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onestar&margin-w=10&row=2&column=3" />
 </p>
 
 ---
 
-⭐️ *Thanks for visiting! Don't forget to ⭐️ my repos if you find them helpful!*
+⭐️ *If you like my work, consider giving a star to [your-github-username](https://github.com/your-github-username)!*
