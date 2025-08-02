@@ -49,6 +49,23 @@
 - **Cisco Certified Support Technician – Cybersecurity (CCST)**
 
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ved85&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ved85&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ved85&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ved85&theme=dracula&row=1&column=7" />
+</p>
+
+---
 
 ## 🚀 Notable Projects
 
@@ -90,24 +107,6 @@
 ### ✈️ Flight Booking System
 - Java-based GUI + CLI booking system with full OOP structure
 - **Tech:** Java (Swing), File I/O backend
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ved85&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ved85&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ved85&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ved85&theme=dracula&row=1&column=7" />
-</p>
 
 ---
 
