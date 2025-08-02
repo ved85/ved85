@@ -10,6 +10,16 @@
 
 ---
 
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
 ## 🧑‍🎓 About Me
 
 🎓 Final year undergraduate student passionate about Artificial Intelligence, Data Science, and MLOps.  
@@ -84,8 +94,6 @@
 
 ---
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -98,21 +106,10 @@
 
 ---
 
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dracula&row=1&column=7" />
 </p>
 
 ---
 
-⭐ *Thanks for visiting! If you liked my work, consider giving it a ⭐!*
-
+⭐ *Thanks for visiting! Feel free to connect and collaborate!*
