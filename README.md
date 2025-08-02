@@ -1,117 +1,64 @@
-<!-- Header -->
-<h1 align="center">Hey 👋, I'm YourName</h1>
-<h3 align="center">AI/ML Engineer • Data Scientist • Software Engineer • Cybersecurity Certified</h3>
-
-<!-- Typing Animation -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2F+ML+Engineer;MLOps+Practitioner;Full+Stack+Dev;Open+Source+Contributor;Cybersecurity+Certified&center=true&width=440&height=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20YourName%20👋&fontSize=40&fontAlign=center" />
 </p>
 
-<!-- Contact & Stats -->
+<!-- Animated Typing -->
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Engineer;Data+Scientist;Software+Engineer;Cybersecurity+Certified;MLOps+Practitioner;Full+Stack+Developer&center=true&width=500&height=45" />
 </p>
 
----
-
-## 🎓 Certification
-
-- 🛡️ **Cisco Certified Support Technician - Cybersecurity (CCST)**
-
----
-
-## 🧠 Skills & Tools
-
-### 📌 Languages  
-C++, Java, Python, PHP, SQL
-
-### ⚙️ Tools & Frameworks  
-Google Colab, UML, GIT/GitHub, Docker, JavaFX, Apache Airflow, MLflow, Redis, scikit-learn, TensorFlow, Keras, pandas, numpy, MySQL, MariaDB, Linux
-
----
-
-## 🚀 Projects
-
-### 🔍 Fake News Detection MLOps Pipeline (2025)  
-Developed an MLOps pipeline automating data ingestion, preprocessing, model development, deployment, and monitoring using Apache Airflow DAGs. Integrated FastAPI with an HTML form for real-time inference.  
-**Tech Used**: Python, FastAPI, Apache Airflow, MLflow, Docker, Redis, MariaDB  
-🔗 [Live App](https://v-news-classifier.onrender.com/)
-
----
-
-### ⚽ Football Talent Discovery System (2025)  
-A web application to help scouts discover football talent with player comparison & admin dashboard. Created the ERM, DB schema, system structure, and backend using PHP.  
-**Tech Used**: PHP, MySQL, Chart.js, jQuery, Bootstrap
-
----
-
-### ✈️ Flight Booking System (2025)  
-An object-oriented 2-in-1 (CLI + GUI) flight booking system allowing management of customers, flights, and bookings via a text-based backend.  
-**Tech Used**: Java (Swing)
-
----
-
-### 🚗 Used Car Price Predictor (2024)  
-A GUI-based ML app to predict used car prices using regression models trained on car data.  
-**Tech Used**: Python (Tkinter, scikit-learn, pickle)  
-🔗 [GitHub Repo](https://github.com/ved85/Used-Car-Price-Predictor)
-
----
-
-### 😊 English Text Emotion Detector Web App (2024)  
-Built a web app that classifies user-input text into emotions using various ML classifiers trained on Twitter data.  
-**Tech Used**: Python (Streamlit, sklearn, NLTK, Altair, matplotlib)  
-🔗 [Live App](https://v-text-emotion-detector.onrender.com/)
-
----
-
-### 📈 Stock Market Telegram Bot (2023)  
-Telegram bot that provides stock/gold/silver data, trend plots, and price predictions using regression models.  
-**Tech Used**: Python (yfinance, telegram bot API, BeautifulSoup, scikit-learn, matplotlib)  
-🔗 [Bot Link](https://t.me/VTbot0_bot)
-
----
-
-## 📊 GitHub Stats
-
+<!-- Contact Icons -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" />
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📜 Certification
 
-![snake gif](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📫 Let's Connect
-
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📬 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🛡️ **Cisco Certified Support Technician – Cybersecurity (CCST)**
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onestar&margin-w=10&row=2&column=3" />
-</p>
+## 🧠 Skills & Tech Stack
+
+### 🖥️ Languages
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧠 AI / ML / DS
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy)
+![MLflow](https://img.shields.io/badge/MLflow-0141FF.svg?style=for-the-badge)
+
+### 🧰 Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![JavaFX](https://img.shields.io/badge/JavaFX-1B1F29?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
 
 ---
 
-⭐️ *If you like my work, please consider giving a ⭐️ to [your-github-username](https://github.com/your-github-username)!*
+## 📈 Manual Skill Proficiency Graph (estimated)
+
+```markdown
+# Example skill levels (0–10):
+Python: ██████████ 10  
+Java:   █████████░ 9  
+C++:    ████████░░ 8  
+ML/DL:  █████████░ 9  
+Docker: ████████░░ 8  
+Airflow:███████░░░ 7  
