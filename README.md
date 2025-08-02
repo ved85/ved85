@@ -54,7 +54,6 @@
 
 ## 📈 Manual Skill Proficiency Graph (estimated)
 
-```markdown
 # Example skill levels (0–10):
 Python: ██████████ 10  
 Java:   █████████░ 9  
