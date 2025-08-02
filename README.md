@@ -44,6 +44,8 @@
 
 <p align="left">
   <img src="https://images.credly.com/size/680x680/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/image.png" width="120" title="Cisco CCST Cybersecurity" />
+  <img src="https://images.credly.com/size/680x680/images/6079f8a6-0f3b-4fe5-b1db-57460d1c9282/image.png" width="120" title="IBM AI" />
+  <img src="https://images.credly.com/size/680x680/images/b4ba52cd-6e75-4362-89f0-5c3fb5eb6821/image.png" width="120" title="IBM AI" />
 </p>
 
 - **Cisco Certified Support Technician – Cybersecurity (CCST)**
