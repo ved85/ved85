@@ -1,13 +1,13 @@
-<!-- Profile Header -->
+<!-- Header -->
 <h1 align="center">Hey 👋, I'm YourName</h1>
-<h3 align="center">AI/ML Enthusiast • Data Scientist • Software Engineer</h3>
+<h3 align="center">AI/ML Engineer • Data Scientist • Software Engineer • Cybersecurity Certified</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2F+ML+Engineer;Data+Scientist;Software+Engineer;Cloud-Native+Dev;Always+Learning&center=true&width=440&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2F+ML+Engineer;MLOps+Practitioner;Full+Stack+Dev;Open+Source+Contributor;Cybersecurity+Certified&center=true&width=440&height=45" />
 </p>
 
-<!-- Social & Contact Badges -->
+<!-- Contact & Stats -->
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -20,47 +20,61 @@
 
 ---
 
-## 🚀 About Me
+## 🎓 Certification
 
-- 🔭 Building AI pipelines, automating tasks, and engineering scalable systems.
-- 👨‍💻 Experienced in both software development and machine learning research.
-- 🌱 Currently diving deeper into **MLOps**, **LLMs**, and **cloud-native ML apps**.
-- 💡 I enjoy solving real-world problems with **Python**, **C++**, **TensorFlow**, and **Docker**.
-- 💬 Ask me about AI, ML, system design, or open-source contributions!
+- 🛡️ **Cisco Certified Support Technician - Cybersecurity (CCST)**
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧠 Skills & Tools
 
-### 📌 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+### 📌 Languages  
+C++, Java, Python, PHP, SQL
 
-### ⚙️ Technologies & Tools
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![UML](https://img.shields.io/badge/UML-2D3F6C?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-010101?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### ⚙️ Tools & Frameworks  
+Google Colab, UML, GIT/GitHub, Docker, JavaFX, Apache Airflow, MLflow, Redis, scikit-learn, TensorFlow, Keras, pandas, numpy, MySQL, MariaDB, Linux
 
-### 🧠 Libraries & Frameworks
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+---
 
-### 🛢 Databases & OS
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🚀 Projects
+
+### 🔍 Fake News Detection MLOps Pipeline (2025)  
+Developed an MLOps pipeline automating data ingestion, preprocessing, model development, deployment, and monitoring using Apache Airflow DAGs. Integrated FastAPI with an HTML form for real-time inference.  
+**Tech Used**: Python, FastAPI, Apache Airflow, MLflow, Docker, Redis, MariaDB  
+🔗 [Live App](https://v-news-classifier.onrender.com/)
+
+---
+
+### ⚽ Football Talent Discovery System (2025)  
+A web application to help scouts discover football talent with player comparison & admin dashboard. Created the ERM, DB schema, system structure, and backend using PHP.  
+**Tech Used**: PHP, MySQL, Chart.js, jQuery, Bootstrap
+
+---
+
+### ✈️ Flight Booking System (2025)  
+An object-oriented 2-in-1 (CLI + GUI) flight booking system allowing management of customers, flights, and bookings via a text-based backend.  
+**Tech Used**: Java (Swing)
+
+---
+
+### 🚗 Used Car Price Predictor (2024)  
+A GUI-based ML app to predict used car prices using regression models trained on car data.  
+**Tech Used**: Python (Tkinter, scikit-learn, pickle)  
+🔗 [GitHub Repo](https://github.com/ved85/Used-Car-Price-Predictor)
+
+---
+
+### 😊 English Text Emotion Detector Web App (2024)  
+Built a web app that classifies user-input text into emotions using various ML classifiers trained on Twitter data.  
+**Tech Used**: Python (Streamlit, sklearn, NLTK, Altair, matplotlib)  
+🔗 [Live App](https://v-text-emotion-detector.onrender.com/)
+
+---
+
+### 📈 Stock Market Telegram Bot (2023)  
+Telegram bot that provides stock/gold/silver data, trend plots, and price predictions using regression models.  
+**Tech Used**: Python (yfinance, telegram bot API, BeautifulSoup, scikit-learn, matplotlib)  
+🔗 [Bot Link](https://t.me/VTbot0_bot)
 
 ---
 
@@ -69,9 +83,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&count_private=true" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" />
 </p>
@@ -84,7 +100,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
@@ -98,4 +114,4 @@
 
 ---
 
-⭐️ *If you like my work, consider giving a star to [your-github-username](https://github.com/your-github-username)!*
+⭐️ *If you like my work, please consider giving a ⭐️ to [your-github-username](https://github.com/your-github-username)!*
