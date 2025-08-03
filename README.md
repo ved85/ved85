@@ -49,7 +49,8 @@
 </p>
 
 - **Cisco Certified Support Technician – Cybersecurity (CCST)**
-
+- **Building AI Solutions Using Advanced Algorithms and Open Source Frameworks**
+- **Machine Learning for Data Science Projects**
 ---
 ## 📈 GitHub Stats
 
