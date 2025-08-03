@@ -19,11 +19,11 @@
 
 ---
 
-## 🧑‍🎓 About Me
+## 🙋‍♂️ About Me
 
-🎓 Final year undergraduate student passionate about Artificial Intelligence, Data Science, and MLOps.  
+🎓 Final year Computer Science with A.I. undergraduate, passionate about Artificial Intelligence, Data Science, and MLOps.  
 💻 I build full-fledged ML systems, RESTful APIs, and scalable automation pipelines.  
-🔍 Currently exploring system design, cloud tools, and contributing to open source.
+🔍 Currently exploring system design, LLM, cloud tools, and contributing to open source.
 
 ---
 
