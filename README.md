@@ -1,6 +1,6 @@
 <!-- Header with Waving Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Vedant%20Varma[19]%20👋&fontSize=35&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Vedant%20Varma%20👋&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <!-- Typing Bio -->
