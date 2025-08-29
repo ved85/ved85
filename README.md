@@ -15,9 +15,6 @@
 <p align="center">
   <a href="mailto:var.vedant@gamil.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vedant-varma-v8585/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/ved85" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@ved85-181717?style=flat-square&logo=github" /></a>
-  <a href="https://linkedin.com/in/vedant-varma-v8585" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:var.vedant@gamil.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/var.vedant%40gmail.com-<COLOR>?style=flat-square&logo=gmail" /></a>
 </p>
 
 ---
