@@ -60,16 +60,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ved85&theme=tokyonight" />
   <br>
 </p>
-<!-- streaks & trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ved85&theme=onedark&row=1&column=4" alt="trophies" />
-</p>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ved85&theme=dracula&row=1&column=7" />
-</p>
 
 ---
 
