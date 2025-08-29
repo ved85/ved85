@@ -62,10 +62,7 @@
 </p>
 <!-- streaks & trophies -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast" alt="streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ved85&theme=onedark&row=1&column=4" alt="trophies" />
 </p>
 
 ---
