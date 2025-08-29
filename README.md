@@ -59,8 +59,8 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ved85&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ved85&layout=compact&theme=tokyonight" />
 </p>
+![trophy](https://github-profile-trophy.vercel.app/?username=ved85&theme=onedark)
 
 ---
 
