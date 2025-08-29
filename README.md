@@ -2,14 +2,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Vedant%20Varma%20👋&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 <!-- Typing Bio -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Final+Year+CS+Student+Specializing+in+AI;AI+%26+ML+Engineer+%7C+MLOps+%7C+Data+Science;Software+Developer+%7C+Cloud+%7C+Docker+%7C+DevOps" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ved85&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 ---
 
 ## 📫 Contact Me
