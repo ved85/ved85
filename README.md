@@ -1,73 +1,251 @@
-<!-- Header with Waving Banner -->
+<!-- Header -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi%20there!%20I'm%20Vedant%20Varma%20👋&fontSize=35&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Hi%20there!%20I'm%20Vedant%20Varma%20👋&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </p>
+
 <!-- Typing Bio -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=CS+&+AI+Graduate +Specializing+in+AI;AI+%26+AI+Engineer+%7C+MLOps+%7C+Data+Science;Software+Developer+%7C+Cloud+%7C+Docker+%7C+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&center=true&vCenter=true&width=700&height=60&lines=First+Class+Computer+Science+%26+AI+Graduate;AI+%26+ML+Engineer+%7C+Research+Assistant;GenAI+%7C+LLMs+%7C+RAG+%7C+Multimodal+AI;Python+%7C+MLOps+%7C+Data+%26+Software+Engineering" />
 </p>
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ved85&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p> -->
-
-## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:var.vedant@gamil.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vedant-varma-v8585/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:var.vedant@gamil.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vedant-varma-v8585/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-🎓 Computer Science with A.I. undergraduate, passionate about AI Engineering, Data Science, and MLOps.  
-💻 I build full-fledged AI powered systems, RESTful APIs, and scalable automation pipelines.  
-🔍 Currently exploring system design, LLM, cloud tools, and contributing to open source.
+🎓 **First Class BSc (Hons) Computer Science with Artificial Intelligence graduate** from Birmingham City University, graduating with an overall **83.44%**.
+
+🔬 **AI/ML Research Assistant** at Birmingham City University, working on NLP, large-scale dataset generation, statistical analysis and LLM fine-tuning.
+
+🤖 I build **end-to-end AI and software systems**, from data collection and processing to model development, APIs, interfaces and deployment.
+
+🧠 My interests include **Generative AI, LLMs, RAG, multimodal AI, computer vision, NLP, MLOps and AI engineering**.
+
+🏆 My final-year project, **VDoc**, received **£5,000 through the Cal Henderson Innovation Seed Fund** in recognition of its innovation potential.
+
+🚀 I enjoy working across the full engineering stack and learning whatever technology is needed to solve a problem.
 
 ---
 
-## 🛠 Tech Stack
+## 🏆 Featured Project — VDoc
 
-| Domain               | Tools & Technologies                                                                 |
-|----------------------|----------------------------------------------------------------------------------------|
-| 👨‍💻 Languages         | `Python`, `Java`, `C++`, `PHP`, `SQL`                                                  |
-| 📊 ML/Data Science    | `Scikit-learn`, `Pandas`, `NumPy`, `TensorFlow`, `Keras`, `NLTK`, `Matplotlib`         |
-| 🚀 Dev & MLOps        | `Docker`, `Apache Airflow`, `MLflow`, `FastAPI`, `Redis`                               |
-| 🌐 Web Dev            | `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `jQuery`, `Chart.js`                         |
-| 🛢️ Databases          | `MySQL`, `MariaDB`                                                                     |
-| 💻 Tools & Platforms  | `Google Colab`, `Linux`, `Git/GitHub`, `UML`, `JavaFX`, `Tkinter`, `Streamlit`         |
+**VDoc** is a multimodal AI personal doctor assistant designed around evidence-based information retrieval and reasoning.
+
+The system combines:
+
+* 🧠 **Vision-Language Models (VLMs)**
+* 🔎 **Retrieval-Augmented Generation (RAG)**
+* 📚 **LlamaIndex**
+* 🗃️ **ChromaDB / Vector Search**
+* ⚡ **FastAPI**
+* 🦙 **Ollama**
+* ☁️ **Cloud LLM inference**
+* 💾 **SQLite**
+* 🔄 **Human-feedback-driven improvement**
+* 🌐 **Online and offline AI capabilities**
+
+The architecture allows local and cloud models to be used through a common system while maintaining conversation context and retrieved knowledge.
+
+**Recognition:** 🏆 £5,000 Cal Henderson Innovation Seed Fund recipient.
+
+---
+
+## 🔬 Research Experience
+
+### Research Assistant — Birmingham City University
+
+**Research:** *Online Language in the Age of Artificial Intelligence*
+
+My research work has involved both software engineering and AI/NLP research.
+
+🔹 Developed **VIIAST (V Intelligent Internet Archive Scraping Tool)** to automate the collection of archived online articles.
+
+🔹 Built configurable dataset generation based on **website domains and year ranges**.
+
+🔹 Developed Jupyter-based analysis workflows to examine dataset coverage, article counts by year, author distributions and other dataset characteristics.
+
+🔹 Applied **NLP statistical evaluation techniques** to journalism datasets.
+
+🔹 Worked with **LLM fine-tuning using LoRA and PEFT**.
+
+🔹 Presented technical findings and visualisations to a multidisciplinary research team.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🐍 Programming & Data
+
+`Python` `Java` `C++` `SQL`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter`
+
+### 🤖 AI & Machine Learning
+
+`PyTorch` `TensorFlow` `Keras` `Scikit-learn`
+`Hugging Face Transformers` `PEFT` `LoRA`
+`NLP` `Deep Learning` `Computer Vision`
+
+### 🧠 Generative AI & LLM Engineering
+
+`LLMs` `RAG` `LlamaIndex` `ChromaDB`
+`VLMs` `Ollama` `Groq` `Vector Databases`
+`Prompt Engineering` `LLM Fine-tuning`
+
+### 🚀 Software Engineering & APIs
+
+`FastAPI` `REST APIs` `JSON` `Socket Programming`
+`Streamlit` `Docker`
+
+### ⚙️ MLOps & Data Pipelines
+
+`Apache Airflow` `MLflow` `Docker` `Redis`
+`Data Pipelines` `Model Evaluation` `Automated Data Processing`
+
+### 👁️ Computer Vision
+
+`Ultralytics YOLO` `OpenCV` `PIL` `Roboflow`
+`Object Detection` `Image Processing`
+
+### 🗄️ Databases
+
+`SQLite` `MariaDB` `MySQL` `Redis`
+
+### 🌐 Web & Development
+
+`HTML` `CSS` `JavaScript` `Bootstrap` `Chart.js`
+
+### 🔧 Tools & Platforms
+
+`Git` `GitHub` `Linux` `Google Colab` `VS Code`
+
+---
+
+## 🚀 Selected Projects
+
+### 🩺 VDoc — Multimodal AI Assistant
+
+**Python · FastAPI · RAG · VLMs · LlamaIndex · ChromaDB · Ollama · Groq · SQLite**
+
+A multimodal AI platform combining document reasoning, visual reasoning, retrieval-augmented generation and local/cloud model inference.
+
+🏆 **£5,000 Cal Henderson Innovation Seed Fund**
+
+---
+
+### 📰 VIIAST — Intelligent Internet Archive Scraping Tool
+
+**Python · Web Scraping · Data Processing · Jupyter · NLP**
+
+A research tool developed to automate the generation of datasets from archived online articles based on configurable domains and year ranges.
+
+Includes analysis workflows for dataset coverage, yearly article distribution, author frequency and other dataset characteristics.
+
+---
+
+### 📰 Fake News Detection MLOps Pipeline
+
+**Python · Airflow · MLflow · FastAPI · Docker · Redis · MariaDB**
+
+An end-to-end machine learning pipeline covering data ingestion, preprocessing, model development, experiment tracking, deployment and inference.
+
+---
+
+### 🔎 PCB Defect Detection
+
+**Python · YOLOv8 · FastAPI · Roboflow**
+
+Computer vision system for detecting defects in PCB images using a custom-trained YOLOv8 model and FastAPI-based inference.
+
+---
+
+### 📝 GPT-Generated Text Detection
+
+**Python · PyTorch · TensorFlow · Transformers · BERT · RoBERTa · GRU**
+
+Explored traditional machine learning, recurrent neural networks and transformer-based models for identifying AI-generated text.
+
+---
+
+## 🎓 Education
+
+**BSc (Hons) Computer Science with Artificial Intelligence**
+**Birmingham City University | 2023 – 2026**
+
+🏅 **First Class Honours**
+📊 **Overall: 83.44%**
+
+Key areas:
+
+`Artificial Intelligence` `Machine Learning` `Deep Learning`
+`NLP` `MLOps` `Cloud Computing` `Data Management`
+`Software Engineering` `Cyber Security` `Modern Data Stores`
 
 ---
 
 ## 📜 Certifications
 
 <p align="left">
-  <img src="https://images.credly.com/size/680x680/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/image.png" width="120" title="Cisco CCST Cybersecurity" />
-  <img src="https://images.credly.com/size/680x680/images/6079f8a6-0f3b-4fe5-b1db-57460d1c9282/image.png" width="120" title="IBM AI" />
-  <img src="https://images.credly.com/size/680x680/images/b4ba52cd-6e75-4362-89f0-5c3fb5eb6821/image.png" width="120" title="IBM AI" />
+  <img src="https://images.credly.com/size/680x680/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/image.png" width="110" title="Cisco CCST Cybersecurity" />
+  <img src="https://images.credly.com/size/680x680/images/6079f8a6-0f3b-4fe5-b1db-57460d1c9282/image.png" width="110" title="IBM AI" />
+  <img src="https://images.credly.com/size/680x680/images/b4ba52cd-6e75-4362-89f0-5c3fb5eb6821/image.png" width="110" title="IBM AI" />
 </p>
 
-- **Cisco Certified Support Technician – Cybersecurity (CCST)**
-- **Building AI Solutions Using Advanced Algorithms and Open Source Frameworks**
-- **Machine Learning for Data Science Projects**
+* **Cisco Certified Support Technician – Cybersecurity (CCST)**
+* **Building AI Solutions Using Advanced Algorithms and Open Source Frameworks**
+* **Machine Learning for Data Science Projects**
+
 ---
-## 📈 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ved85&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ved85&theme=tokyonight" />
-  <br>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ved85&theme=tokyonight" />
+</p>
 
 ---
 
-## 🚀 Notable Projects
+## 🔭 Currently Interested In
 
-Cool stuff Loading(update pending)
+* Generative AI & LLM Engineering
+* Retrieval-Augmented Generation
+* Multimodal AI & Vision-Language Models
+* AI Agents & Agentic Systems
+* Machine Learning & Deep Learning
+* NLP & Computer Vision
+* MLOps & AI Infrastructure
+* Data Engineering & Automated Pipelines
+* Cloud AI Systems
+* Research & Applied AI
 
 ---
 
-⭐ *Thanks for visiting! Feel free to connect and collaborate!*
+## 🤝 Let's Connect
+
+I'm interested in **AI engineering, machine learning, GenAI, research and software engineering opportunities**, as well as interesting technical collaborations and open-source projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedant-varma-v8585/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:var.vedant@gamil.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
