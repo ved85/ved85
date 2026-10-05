@@ -84,49 +84,13 @@ My research work has involved both software engineering and AI/NLP research.
 
 ## 🛠️ Tech Stack
 
-### 🐍 Programming & Data
+Programing Languages: C++, C#, JAVA, Python, PHP, SQL, NoSQL, HTML5, JavaScript(ES6), CSS3.
 
-`Python` `Java` `C++` `SQL`
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter`
 
-### 🤖 AI & Machine Learning
-
-`PyTorch` `TensorFlow` `Keras` `Scikit-learn`
-`Hugging Face Transformers` `PEFT` `LoRA`
-`NLP` `Deep Learning` `Computer Vision`
-
-### 🧠 Generative AI & LLM Engineering
-
-`LLMs` `RAG` `LlamaIndex` `ChromaDB`
-`VLMs` `Ollama` `Groq` `Vector Databases`
-`Prompt Engineering` `LLM Fine-tuning`
-
-### 🚀 Software Engineering & APIs
-
-`FastAPI` `REST APIs` `JSON` `Socket Programming`
-`Streamlit` `Docker`
-
-### ⚙️ MLOps & Data Pipelines
-
-`Apache Airflow` `MLflow` `Docker` `Redis`
-`Data Pipelines` `Model Evaluation` `Automated Data Processing`
-
-### 👁️ Computer Vision
-
-`Ultralytics YOLO` `OpenCV` `PIL` `Roboflow`
-`Object Detection` `Image Processing`
-
-### 🗄️ Databases
-
-`SQLite` `MariaDB` `MySQL` `Redis`
-
-### 🌐 Web & Development
-
-`HTML` `CSS` `JavaScript` `Bootstrap` `Chart.js`
-
-### 🔧 Tools & Platforms
-
-`Git` `GitHub` `Linux` `Google Colab` `VS Code`
+Technologies and Tools: QGIS, OpenCV, Plotly, Streamlit, GeoPandas, YOLO, PIL, Roboflow, Matplotlib, Seaborne, 
+FastAPI, Scikit-learn, Pandas, Socket Programming, NumPy, TensorFlow, Keras, PyTorch, RAG, Ollama, LamaIndex, 
+Langchain, Langgraph, Hugging Face Transformers, NLTK, Apache Airflow, Mlflow, Redis, Claude code, AWS, UML, 
+GIT/Github, Docker, JavaFX, Mongo DB, MySQL, MariaDB, Linux OS, Bootstrap, JQuery, Google Colab, Latex.
 
 ---
 
