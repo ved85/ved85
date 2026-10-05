@@ -87,7 +87,7 @@ My research work has involved both software engineering and AI/NLP research.
 Programing Languages: C++, C#, JAVA, Python, PHP, SQL, NoSQL, HTML5, JavaScript(ES6), CSS3.
 
 
-Technologies and Tools: QGIS, OpenCV, Plotly, Streamlit, GeoPandas, YOLO, PIL, Roboflow, Matplotlib, Seaborne, 
+Technologies and Tools: Google earth engine API, OpenCV, Plotly, Streamlit, GeoPandas, YOLO, PIL, Roboflow, Matplotlib, Seaborne, 
 FastAPI, Scikit-learn, Pandas, Socket Programming, NumPy, TensorFlow, Keras, PyTorch, RAG, Ollama, LamaIndex, 
 Langchain, Langgraph, Hugging Face Transformers, NLTK, Apache Airflow, Mlflow, Redis, Claude code, AWS, UML, 
 GIT/Github, Docker, JavaFX, Mongo DB, MySQL, MariaDB, Linux OS, Bootstrap, JQuery, Google Colab, Latex.
